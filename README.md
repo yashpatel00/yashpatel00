@@ -1,195 +1,71 @@
-# 👋 Hi, I'm Yash Patel
+✨
+V2 Available Now!Redesigned UI · More features · Faster performance
+Upgrade to V2 →
+✕
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+24118
+Fork on GitHub
+8302
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e76a8&height=200&section=header&text=Yash%20Patel&fontSize=35&fontColor=ffffff"/>
+back to edit
+
+copy-markdown
+
+download markdown
+
+download backup
+
+preview
+<h1 align="center">Hi 👋, I'm Yash Patel</h1>
+<h3 align="center">I'm an Analytical and detail-oriented Data Analyst who wants to “Transforming numbers into narratives — because great decisions start with great insights.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashpatel00&label=Profile%20views&color=0e75b6&style=flat" alt="yashpatel00" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashpatel00" alt="yashpatel00" /></a> </p>
+
+- 🔭 I’m currently working on **Injury and Fatal Traffic Collisions in Toronto**
+
+- 🤝 I’m looking for help with **Injury and Fatal Traffic Collisions in Toronto**
+
+- 📫 How to reach me **yashptl6803@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/yash patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash patel" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <em><strong>Turning raw data into clear insights, dashboards, and better decisions.</strong></em>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=0E76A8&center=true&vCenter=true&width=700&lines=Data+Analytics+Student;Power+BI+%7C+SQL+%7C+Python;Dashboards+%7C+Data+Cleaning+%7C+Machine+Learning" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashpatel00&show_icons=true&locale=en&layout=compact" alt="yashpatel00" /></p>
 
-<p align="center">
-  📍 Ontario, Canada &nbsp;&nbsp;|&nbsp;&nbsp; 📧 your-email@example.com
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashpatel00&show_icons=true&locale=en" alt="yashpatel00" /></p>
 
-<p align="center">
-  🔗 <a href="https://www.linkedin.com/in/your-linkedin-username">LinkedIn</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://github.com/your-github-username">GitHub</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://www.kaggle.com/your-kaggle-username">Kaggle</a>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashpatel00&" alt="yashpatel00" /></p>
 
----
-
-## 💼 About Me
-
-I am a **Data Analytics student** focused on using data to solve business problems through dashboards, reporting, and analytical models. I enjoy working with data from the cleaning stage to the final insight stage, using tools like **Excel, SQL, Python, and Power BI**.
-
-I am currently building projects in:
-- **Data cleaning and transformation**
-- **Dashboard development**
-- **Exploratory data analysis**
-- **Machine learning**
-- **Business reporting and storytelling**
-
----
-
-## 🧰 Core Data Analyst Skills
-
-### 📊 Analytics & BI
-- Data Analysis
-- Exploratory Data Analysis (EDA)
-- Dashboard Development
-- KPI Reporting
-- Business Intelligence
-- Data Storytelling
-- Trend Analysis
-- Descriptive Analytics
-- Diagnostic Analytics
-- Basic Predictive Analytics
-
-### 🗂 Data Cleaning & Preparation
-- Data Cleaning
-- Data Transformation
-- Data Validation
-- Data Formatting
-- Handling Missing Values
-- Removing Duplicates
-- Feature Engineering
-- Data Merging and Joins
-- Spreadsheet Structuring
-- ETL Basics
-
-### 📈 Visualization & Reporting
-- Power BI
-- Excel Dashboards
-- Tableau
-- Charts and Graph Selection
-- Interactive Reports
-- Filters, Slicers, and Drill-through
-- Custom Tooltips
-- Report Design Best Practices
-
-### 💻 Technical Tools
-- Excel
-- SQL
-- Python
-- Power BI
-- Tableau
-- Jupyter Notebook
-- Git
-- GitHub
-- VS Code
-
-### 🐍 Python Libraries
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-- Seaborn
-
-### 🗄 Databases
-- MySQL
-- PostgreSQL
-- SQL Server (basic)
-- Relational Data Modeling
-
-### 📐 Statistical & Analytical Concepts
-- Mean, Median, Mode
-- Standard Deviation
-- Correlation
-- Distribution Analysis
-- Outlier Detection
-- Hypothesis Testing
-- Sampling
-- Probability Basics
-
-### 🤖 Machine Learning Basics
-- Classification
-- Regression
-- Model Evaluation
-- Train-Test Split
-- Confusion Matrix
-- Precision, Recall, F1 Score
-- ROC-AUC
-- Threshold Tuning
-- Handling Imbalanced Data
-
-### 📋 Professional Skills
-- Problem Solving
-- Analytical Thinking
-- Attention to Detail
-- Presentation Skills
-- Stakeholder Communication
-- Documentation
-- Time Management
-
----
-
-## 🎓 Education
-
-🎓 **Master’s in Data Analytics** — University of Niagara Falls Canada  
-🎓 **Bachelor’s in Computer Engineering** — India
-
----
-
-## 🚀 Featured Projects
-
-### 🚗 Road Accident Severity Analysis
-Built a machine learning project to analyze road accident severity using Python, feature engineering, and classification models. Focused on model evaluation, threshold tuning, and business interpretation.
-
-### 📊 Power BI Dashboard Projects
-Created dashboards for reporting KPIs, trend analysis, and business insights using interactive visuals, slicers, and clean report layouts.
-
-### 🧹 Data Cleaning & Reporting Projects
-Worked on structured datasets using Excel, SQL, and Python for cleaning, transformation, analysis, and presentation of insights.
-
-### 📈 Analytics Portfolio Projects
-Developed beginner-to-intermediate analytics projects to strengthen skills in SQL, Python, data visualization, and dashboard design.
-
----
-
-## 🧰 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Git](https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📌 Portfolio
-
-🔗 Explore my projects here:  
-[**View My GitHub Repositories**](https://github.com/your-github-username?tab=repositories)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=default)
-
----
-
-## 📫 Contact Me
-
-- LinkedIn: https://www.linkedin.com/in/your-linkedin-username
-- GitHub: https://github.com/your-github-username
-- Email: your-email@example.com
-
----
-
-## ⚡ Fun Fact
-
-I enjoy making analytics simple, practical, and useful for decision-making.
+Support 🙏
+Are you using the tool and happy with it to create your GitHub Profile?
+Your kind support keeps open-source tools like this free for others.
+tweet github profile readme generator
+Let the world know how you feel using this tool. Share with others on twitter.
+Tip💰
+Buy ko-fi for rahuldkjainBuy me a ko-fi
+Donate rahuldkjain via paypal
+Buy rahuldkjain A CoffeeBuy me a coffee
+github profile markdown generator logo
+GitHub Profile README Generator
+Pages
+Addons
+Support
+About
+More
+Github
+Releases
+Issues
+Pull Requests
+Join Community
+Discord of the community
+Developed in India 🇮🇳
+Buy Me A Coffee
