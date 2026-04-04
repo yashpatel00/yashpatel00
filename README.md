@@ -1,100 +1,59 @@
-<h1 align="center">Hi 👋, I'm Yash Patel</h1>
-<h3 align="center">Data Analytics Student | Turning data into insights for better decisions</h3>
+# 👋 Hi, I'm Yash Patel
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yashpatel00&label=Profile%20views&color=0e75b6&style=flat" alt="yashpatel00" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yashpatel00" alt="yashpatel00" />
-  </a>
-</p>
+Data Analyst skilled in SQL, Power BI, and Python, focused on solving business problems through data analysis, reporting, and dashboarding.
 
 ---
 
-## 💼 About Me
+## 🚀 Featured Projects
 
-- 🎓 Master’s student in Data Analytics (Canada)
-- 🔍 Focused on **data analysis, dashboards, and machine learning**
-- 📊 Strong interest in solving **real-world business problems using data**
-- 🚀 Currently improving **Python, SQL, and Power BI skills**
-
----
-
-## 🚀 Current Project
-
-- 🔭 Working on **Injury and Fatal Traffic Collisions in Toronto**
-- 🤝 Looking for help with **model improvement & real-world interpretation**
+### 1. Road Accident Severity Analysis (Capstone Project)
+- Built a machine learning model to predict accident severity using real-world data  
+- Performed data cleaning, feature engineering, and exploratory analysis using Python  
+- Applied models like Logistic Regression, Random Forest, and XGBoost  
+- Evaluated performance using ROC-AUC, confusion matrix, and threshold tuning  
+- Identified key factors affecting accident severity such as time, location, and conditions  
 
 ---
 
-## 🧠 Skills
-
-### 📊 Data Analytics & BI
-- Data Analysis  
-- Exploratory Data Analysis (EDA)  
-- Dashboard Development  
-- KPI Tracking & Reporting  
-- Data Storytelling  
-- Business Intelligence  
-
-### 🧹 Data Cleaning & Processing
-- Data Cleaning  
-- Data Transformation  
-- Handling Missing Values  
-- Feature Engineering  
-- Data Merging & Joins  
-- ETL Basics  
-
-### 💻 Tools & Technologies
-- Python  
-- SQL  
-- Excel  
-- Power BI  
-- Tableau (basic)  
-- Jupyter Notebook  
-- Git & GitHub  
-
-### 🐍 Python Libraries
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Scikit-learn  
-- Seaborn  
-
-### 🗄 Databases
-- MySQL  
-- PostgreSQL (basic)  
-
-### 📐 Statistics & ML
-- Descriptive Statistics  
-- Correlation Analysis  
-- Hypothesis Testing  
-- Classification Models  
-- Model Evaluation (Precision, Recall, F1 Score)  
-- ROC-AUC  
-- Handling Imbalanced Data  
+### 2. Brain Tumor Analysis Dashboard (Power BI)
+- Designed an interactive Power BI dashboard to analyze brain tumor data  
+- Created KPIs and visual reports to track tumor types, patient distribution, and trends  
+- Implemented slicers and filters for dynamic data exploration  
+- Focused on clear data storytelling and user-friendly dashboard design  
 
 ---
 
-## 📫 Contact Me
-
-- 📧 Email: yashptl6803@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-linkedin-username  
+### 3. Gym Management SQL Analysis
+- Analyzed gym operations data including member activity, revenue, and usage trends  
+- Wrote complex SQL queries using joins, aggregations, CTEs, and window functions  
+- Identified peak hours, high-value members, and business improvement opportunities  
 
 ---
 
-## 🔗 GitHub Stats
+### 4. End-to-End Data Analytics Project (In Progress)
+- Building a complete analytics pipeline using Python, SQL, and Power BI  
+- Performing data cleaning, transformation, and analysis  
+- Developing dashboards to generate business insights and support decision-making  
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashpatel00&show_icons=true&locale=en&layout=compact" />
-</p>
+---
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashpatel00&show_icons=true&locale=en" />
-</p>
+## 🛠️ Skills & Tools
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashpatel00&" />
-</p>
+- **Languages & Tools:** SQL, Python (Pandas, NumPy), Excel  
+- **Visualization:** Power BI, Matplotlib  
+- **Techniques:** Data Cleaning, EDA, Dashboarding, KPI Analysis, Machine Learning  
+
+---
+
+## 🤝 Let's Connect
+
+- LinkedIn: https://www.linkedin.com/in/yash-patel-116625224/  
+- Email: yash.data.analyst06@gmail.com  
+
+---
+
+## ⚡ About Me
+
+- Focused on building real-world data analytics projects  
+- Strong interest in solving business problems using data  
+- Continuously improving skills in SQL, Power BI, and data analysis  
