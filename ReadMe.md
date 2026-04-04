@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/yashpatel00/yashpatel00/blob/main/ezgif-82c9a9aa7032f4f2.gif)]
+![MasterHead](https://github.com/yashpatel00/yashpatel00/blob/main/ezgif-82c9a9aa7032f4f2.gif)
 # 👋 Hi, I'm Yash Patel  
 Data Analyst skilled in SQL, Power BI, Tableau, and Python, focused on solving business problems through data analysis and dashboarding. I work on end-to-end projects that involve data cleaning, analysis, and visualization to generate actionable insights.
 
