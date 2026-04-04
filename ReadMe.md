@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Yash Patel  
 Data Analyst skilled in SQL, Power BI, Tableau, and Python, focused on solving business problems through data analysis and dashboarding. I work on end-to-end projects that involve data cleaning, analysis, and visualization to generate actionable insights.
 
+(img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3ltN2c0dXhzaHZwNHFjZDY2dDltNG5ldnVraXlsMGQ5anFrOWNmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif")
+
+
 
 
 # 💫 About Me:
