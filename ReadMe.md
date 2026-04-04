@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/yashpatel00/yashpatel00/blob/main/ezgif-82c9a9aa7032f4f2.gif" alt="banner" width="100%" />
+  <img src="https://github.com/yashpatel00/yashpatel00/blob/main/20260404_013511.gif" alt="banner" width="100%" />
 </p>
 
 # 👋 Hi, I'm Yash Patel  
