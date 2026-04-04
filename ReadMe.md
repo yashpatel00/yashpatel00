@@ -45,7 +45,7 @@ Data Analyst skilled in SQL, Power BI, and Python, focused on solving business p
 - Focused on solving real-world business problems and generating insights  
 
 ---
-
+![](https://komarev.com/ghpvc/?username=yashpatel00&label=Profile%20views&color=0e75b6&style=flat)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
