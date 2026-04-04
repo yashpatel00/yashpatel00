@@ -3,9 +3,6 @@ Data Analyst skilled in SQL, Power BI, Tableau, and Python, focused on solving b
 
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3ltN2c0dXhzaHZwNHFjZDY2dDltNG5ldnVraXlsMGQ5anFrOWNmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif">
 
-
-
-
 # 💫 About Me:
 🔭 **I’m currently working on**<br>End-to-end Data Analytics projects (SQL + Power BI + Python)<br>Building real-world business case projects for my portfolio<br><br>👯 **I’m looking to collaborate on**<br>Data analysis projects<br>Dashboard development (Power BI)<br>SQL-based business problem solving<br><br>**🤝 I’m looking for help with**<br>Improving project quality to match industry standards<br>Breaking into entry-level Data Analyst roles in Canada<br><br>🌱 **I’m currently learning**<br>>Advanced SQL (window functions, CTEs)<br>Data storytelling and dashboard design<br>Real-world business analytics use cases<br><br>💬 **Ask me about**<br>SQL queries & data analysis<br>Power BI dashboards<br>My projects and learning journey<br><br>⚡**Fun fact**<br>I enjoy turning messy data into clear, actionable insights
 
