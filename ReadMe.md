@@ -107,17 +107,6 @@ Analyzed gym business data using SQL to understand member activity, revenue patt
 - Automating repetitive data cleaning workflows
 - Applying for Data Analyst roles and improving interview readiness
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashpatel00&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashpatel00&theme=dark" alt="GitHub Streak" />
-</p>
 
 ---
 
